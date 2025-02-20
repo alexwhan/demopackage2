@@ -9,5 +9,5 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/alexwhan/demopackage2
+URL: https://github.com/alexwhan/demopackage2, https://alexwhan.github.io/demopackage2/
 BugReports: https://github.com/alexwhan/demopackage2/issues
