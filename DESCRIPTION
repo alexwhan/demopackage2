@@ -3,7 +3,7 @@ Type: Package
 Title: The Package Does Not Do Very Much
 Version: 0.1.0
 Authors@R: c(
-    person("Alex", "Whan", ,"alexwhan@gmail.com", role = c("aut", "cre")
+    person("Alex", "Whan", ,"alexwhan@gmail.com", role = c("aut", "cre"))
   )
 Maintainer:  <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
