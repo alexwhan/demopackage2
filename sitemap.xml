@@ -1,9 +1,11 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url><loc>https://alexwhan.github.io/demopackage2/404.html</loc></url>
 <url><loc>https://alexwhan.github.io/demopackage2/LICENSE.html</loc></url>
+<url><loc>https://alexwhan.github.io/demopackage2/articles/add-numbers.html</loc></url>
+<url><loc>https://alexwhan.github.io/demopackage2/articles/index.html</loc></url>
 <url><loc>https://alexwhan.github.io/demopackage2/authors.html</loc></url>
 <url><loc>https://alexwhan.github.io/demopackage2/index.html</loc></url>
-<url><loc>https://alexwhan.github.io/demopackage2/reference/add_number.html</loc></url>
+<url><loc>https://alexwhan.github.io/demopackage2/reference/add_numbers.html</loc></url>
 <url><loc>https://alexwhan.github.io/demopackage2/reference/hello.html</loc></url>
 <url><loc>https://alexwhan.github.io/demopackage2/reference/index.html</loc></url>
 </urlset>
