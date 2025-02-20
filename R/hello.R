@@ -8,7 +8,7 @@
 #'
 #' @examples
 #'
-#' add_number(5, 2)
+#' add_numbers(5, 2)
 #'
 add_numbers <- function(x, y) {
   sum(x, y)
