@@ -12,6 +12,9 @@ LazyData: true
 URL: https://github.com/alexwhan/demopackage2, https://alexwhan.github.io/demopackage2/
 BugReports: https://github.com/alexwhan/demopackage2/issues
 Suggests: 
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
+VignetteBuilder: knitr

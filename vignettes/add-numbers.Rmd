@@ -1,0 +1,29 @@
+---
+title: "add-numbers"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{add-numbers}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(demopackage2)
+```
+
+## Amazing package to add numbers
+
+Have you ever wanted to add numbers together? Now you can with this package.
+
+If you want to impress your friends and family by adding together the numbers ten and three, simply:
+
+```
+add_numbers(10, 3)
+```

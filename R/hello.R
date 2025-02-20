@@ -10,6 +10,6 @@
 #'
 #' add_number(5, 2)
 #'
-add_number <- function(x, y) {
+add_numbers <- function(x, y) {
   sum(x, y)
 }
