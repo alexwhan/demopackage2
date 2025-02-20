@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   add-numbers: add-numbers.html
-last_built: 2025-02-20T05:10Z
+last_built: 2025-02-20T05:20Z
 urls:
   reference: https://alexwhan.github.io/demopackage2/reference
   article: https://alexwhan.github.io/demopackage2/articles
